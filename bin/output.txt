@@ -1,0 +1,6 @@
+Student Name: Jake Lawrence
+Exam Score: 42 / 50 (Lost 8 points)
+Final Grade: 89.00% (89% and 0/100)
+Passed the course? true
+High Honors? false
+Needs Remediation? false
